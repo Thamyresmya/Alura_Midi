@@ -6,7 +6,7 @@ Projeto de desenvolvimento web realizado com Django.
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Alura Midi**
 | :label: Tecnologias | HTML5, CSS3, JavaScript
-| :rocket: URL         | thamyresmya.github.io/Alura_Midi
+| :rocket: URL         | thamyresmya.github.io/Alura_Midi/
 | :fire: Desafio     | 
 
 
