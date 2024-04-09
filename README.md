@@ -1,4 +1,4 @@
-# Projeto Alura Space
+# Projeto Alura Midi
 
 Projeto de desenvolvimento web realizado com Django.
 
